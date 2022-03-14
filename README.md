@@ -1,4 +1,4 @@
-# state-estimation-for-continuous-cloth-manipulation
+# Semantic State Estimation in Cloth Manipulation Tasks
 
 ## Abstract 
 
@@ -10,7 +10,7 @@ Furthermore, we investigate the scalability of our semantic state estimation fra
 
 ## Short task dataset
 
-The dataset is constisted of 18 different textile from which we generate 10 sematic states through 7 manipulation tasks
+The dataset is consisted of 18 different textile from which we generate 10 sematic states through 7 manipulation tasks
 
 ### Examples 
 ![Example Gif](/images/datagen_example.gif)
@@ -24,7 +24,7 @@ The dataset is constisted of 18 different textile from which we generate 10 sema
 
 ## Long manipulation tasks dataset
 
-The dataset consists 4 long manipulation tasks through human demostration. Further 2 of those tasks are also performed by robotic execution
+The dataset consists 4 long manipulation tasks through human demonstration. Further 2 of those tasks are also performed by robotic execution
 
 ### Manipulation Graph
 ![Alt text](/images/Graph_V3.png "Manipulation Graph")
