@@ -32,3 +32,9 @@ The dataset consists 4 long manipulation tasks through human demonstration. Furt
 ### Monitoring and class activation heatmaps
 
 ![Alt text](/images/human_robot.png "Monitoring and Class Activation Heatmaps")
+
+## Dataset Download
+
+To access the dataset please message me through this page and I will provide you with a google drive link.
+
+
