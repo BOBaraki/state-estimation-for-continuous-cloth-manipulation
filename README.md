@@ -38,7 +38,7 @@ The dataset consists 4 long manipulation tasks through human demonstration. Furt
 
 We aim to provide a public download link to the dataset as soon as possible.
 However, due to its large size it might take sometime to be done. 
-Thus, until this issue is resolved, to access the dataset please message me through this page or by email(@gtzelepis@iri.upc.edu) and I will provide you with a temporary google drive link.
+Thus, until this issue is resolved, to access the dataset please message me through this page or by email(gtzelepis@iri.upc.edu) and I will provide you with a temporary google drive link.
 
 ### Citation
 
