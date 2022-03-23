@@ -35,6 +35,28 @@ The dataset consists 4 long manipulation tasks through human demonstration. Furt
 
 ## Dataset Download
 
-To access the dataset please message me through this page and I will provide you with a google drive link.
+We aim to provide a public download link to the dataset as soon as possible.
+However, due to its large size it might take sometime to be done. 
+Thus, until this issue is resolved, to access the dataset please message me through this page or by email(@gtzelepis@iri.upc.edu) and I will provide you with a temporary google drive link.
 
+### Citation
 
+```
+@misc{https://doi.org/10.48550/arxiv.2203.11647,
+  doi = {10.48550/ARXIV.2203.11647},
+  
+  url = {https://arxiv.org/abs/2203.11647},
+  
+  author = {Tzelepis, Georgies and Aksoy, Eren Erdal and Borràs, Júlia and Alenyà, Guillem},
+  
+  keywords = {Robotics (cs.RO), Computer Vision and Pattern Recognition (cs.CV), FOS: Computer and information sciences, FOS: Computer and information sciences},
+  
+  title = {Semantic State Estimation in Cloth Manipulation Tasks},
+  
+  publisher = {arXiv},
+  
+  year = {2022},
+  
+  copyright = {Creative Commons Attribution 4.0 International}
+}
+```
