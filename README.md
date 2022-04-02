@@ -36,10 +36,11 @@ The dataset consists 4 long manipulation tasks through human demonstration. Furt
 
 ## Dataset Download
 
-We aim to provide a public download link to the dataset as soon as possible.
-However, due to its large size it might take sometime to be done. 
-Thus, until this issue is resolved, to access the dataset please message me through this page or by email(gtzelepis@iri.upc.edu) and I will provide you with a temporary google drive link.
-
+The original dataset which was used to fine tune the models was consisted from FullHD 
+png images and thus the dataset's size is over 144GB! For that we created a lightweight 
+version of jpg with reduced(50%) quality which can be downloaded from
+[here](https://drive.google.com/file/d/1C45KLXAGonlDZyuatITktkntpthVk9N8/view?usp=sharing).
+If you are interested however in the original dataset please send an email(gtzelepis@iri.upc.edu) and I will provide you with a google drive link.
 ### Citation
 
 ```
