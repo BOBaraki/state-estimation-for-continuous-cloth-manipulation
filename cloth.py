@@ -1,6 +1,5 @@
 """
-@author: Junguang Jiang
-@contact: JiangJunguang1123@outlook.com
+Domain adaptation for cloth manipulation tasks with Transfer learning library
 """
 import random
 import time
